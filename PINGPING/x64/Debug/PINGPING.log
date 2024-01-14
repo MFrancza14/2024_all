@@ -1,0 +1,12 @@
+﻿  PINGPING.cpp
+C:\Users\russe\OneDrive\Pulpit\WE23\PINGPING\PINGPING\PINGPING.cpp(26,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\russe\OneDrive\Pulpit\WE23\PINGPING\PINGPING\PINGPING.cpp(26,22): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\russe\OneDrive\Pulpit\WE23\PINGPING\PINGPING\PINGPING.cpp(26,20): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\russe\OneDrive\Pulpit\WE23\PINGPING\PINGPING\PINGPING.cpp(53,30): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\russe\OneDrive\Pulpit\WE23\PINGPING\PINGPING\PINGPING.cpp(54,31): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\russe\OneDrive\Pulpit\WE23\PINGPING\PINGPING\PINGPING.cpp(161,24): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\russe\OneDrive\Pulpit\WE23\PINGPING\PINGPING\PINGPING.cpp(164,67): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\russe\OneDrive\Pulpit\WE23\PINGPING\PINGPING\PINGPING.cpp(168,67): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  PINGPING.vcxproj -> C:\Users\russe\OneDrive\Pulpit\WE23\PINGPING\x64\Debug\PINGPING.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
